@@ -13,5 +13,17 @@
 *.tar.gz
 *.rar
 
+# Maven ignore
+target/
+
+# Eclipse ignore
+.settings/
+.project
+.classpath
+
+# Idea
 .idea/
+/idea/
+*.ipr
 *.iml
+*.iws
